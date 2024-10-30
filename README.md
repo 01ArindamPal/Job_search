@@ -31,8 +31,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/job_search_platform.git
-   cd job_search_platform
+   git clone https://github.com/01ArindamPal/Job_search.git
+   cd job_search
 
 2. Install the dependencies:
 
